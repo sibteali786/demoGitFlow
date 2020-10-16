@@ -1,1 +1,2 @@
 Added first.txt in Master Branch
+Made some chnages 
